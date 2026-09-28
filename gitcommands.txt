@@ -22,3 +22,22 @@
 
 #--git commit -m "message" --for adding staged files into
 #                                      localrepository
+
+#--git remote add origin "remote repository path"
+#           --for connecting local repository with remote repository
+
+
+#--git branch
+#           --showing the current branchname
+#           (default master/main)
+
+
+#--git push origin branchname -
+#           --for adding changes from local repository into remote repository
+
+
+#--git log --for showing commit history
+
+
+#--git remote -v
+#           --for showing the details of remote repository
